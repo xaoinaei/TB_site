@@ -7,7 +7,7 @@
   02. Helper Classes
   03. Typography
 ` 04. Transtion
-  05. Images
+  0Images5. 
   06. Bg-Color
   07. Social Icon Text Color
   08. Social Icon Bg Color
@@ -65,7 +65,7 @@ a {
 .browserupgrade {
   margin: 0.2em 0;
   background: #ccc;
-  color: #000;
+  color: rgb(233, 27, 27);
   padding: 0.2em 0;
 }
 /*-----------------------
@@ -81,7 +81,7 @@ html {
 }
 body {
   font-family: "Open Sans", sans-serif;
-  color: #1f2d30;
+  color: #c20c05;
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
@@ -90,7 +90,7 @@ body {
 }
 p {
   font-family: "Open Sans", sans-serif;
-  color: #606060;
+  color: rgb(31, 30, 30);
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
@@ -108,7 +108,7 @@ h6,
 .h5,
 .h6 {
   font-family: "Raleway", sans-serif;
-  color: #1f2d30;
+  color: #fafafa;
   font-weight: 400;
   font-variant-ligatures: common-ligatures;
   margin-top: 0;
@@ -199,7 +199,7 @@ a {
 a:hover,
 a:focus,
 a:active {
-  color: #105e3d;
+  color: #dd2a0a;
 }
 p a:hover,
 p a:focus,
@@ -252,7 +252,7 @@ img:last-child {
   margin-bottom: 0;
 }
 body {
-  background: #850202;
+  background: #ce0909;
 }
 .mark,
 mark {
@@ -266,16 +266,16 @@ mark {
   background: #e40000;
 }
 .bg__white {
-  background: #fff;
+  background: rgb(225, 243, 243);
 }
 .bg__gray {
-  background: #fafafa;
+  background: #aaa5a5;
 }
 .bg__dark {
   background: #151515;
 }
 .bg__cat--1 {
-  background-color: #1f2d30;
+  background-color: #0b0a0a;
 }
 
 /*-------------------------------
@@ -501,7 +501,7 @@ mark {
 [data--1f2d30__overlay]:before {
   position: absolute;
   content: "";
-  background: #1f2d30;
+  background: #650505;
   width: 100%;
   height: 100%;
   top: 0;

@@ -71,6 +71,13 @@
 .footer__link {
   display: flex;
 }
+.footer__instagram img {
+  align-items: center;
+  padding: 2em;
+}
+.footer {
+  align-items: inherit;
+}
 .ft__menu li a {
   color: #ffffff;
   font-size: 14px;

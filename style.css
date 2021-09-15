@@ -221,6 +221,7 @@
   bottom: 15px;
 }
 #scrollUp:hover {
+  color: #0080ff;
 }
 
 @-webkit-keyframes scroll-ani-to-top {
@@ -401,7 +402,7 @@ About 2
 .text__shape h2 {
   color: #e62b2b;
   font-family: Josefin Sans;
-  font-size: 90px;
+  font-size: 60px;
   font-weight: 700;
   letter-spacing: 7px;
   writing-mode: vertical-rl;
@@ -589,7 +590,7 @@ About 2
   z-index: 4;
 }
 .project__hover__info {
-  background: rgba(252, 194, 54, 0.9) none repeat scroll 0 0;
+  background: rgba(252, 61, 54, 0.9) none repeat scroll 0 0;
   height: 100%;
   left: 0;
   opacity: 0;
@@ -1110,6 +1111,10 @@ About 2
   justify-content: space-between;
   align-items: center;
 }
+.brand__list img {
+  justify-items: flex-start;
+  padding-inline: 3em;
+}
 .brand__list li a {
   display: block;
 }
@@ -1205,16 +1210,20 @@ About 2
   justify-content: space-around;
 }
 .fact__count span.count {
-  color: #1f2d30;
+  color: #000;
   font-size: 40px;
   font-weight: 700;
 }
 .fact__title h2 {
-  color: #1f2d30;
+  color: #000;
   font-size: 20px;
   font-weight: 700;
   margin-top: 6px;
   text-transform: uppercase;
+}
+.fact__count p {
+  color: #000;
+  font-style: italic;
 }
 .h1__countdown .htc__callto__action h2 {
   font-size: 56px;

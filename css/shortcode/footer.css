@@ -12,7 +12,7 @@
   display: flex;
 }
 .ht__address__details p {
-  color: #00;
+  color: #fafafa;
   font-size: 16px;
   font-weight: 500;
 }
@@ -47,8 +47,8 @@
   min-width: 47px;
 }
 .ht__address__inner:hover .ht__address__icon i {
-  background: #fcc236 none repeat scroll 0 0;
-  border: 1px solid #fcc236;
+  background: rgb(231, 16, 16) none repeat scroll 0 0;
+  border: 1px solid rgb(231, 16, 16);
   color: #fff;
 }
 .htc__contact__wrap {
@@ -76,7 +76,7 @@
   transition: 0.4s;
 }
 .ft__menu li a:hover {
-  color: #fcc236;
+  color: rgb(231, 16, 16);
 }
 .footer__link ul.ft__menu + ul.ft__menu {
   margin-left: 30px;
@@ -103,18 +103,18 @@
   text-align: center;
 }
 .copyright__inner p {
-  color: #1f2d30;
+  color: #fff;
   font-size: 14px;
   font-weight: 600;
 }
 .copyright__inner p a {
-  color: #1f2d30;
+  color: #fafafa;
   padding: 0 3px;
   text-transform: capitalize;
   transition: all 0.3s ease 0s;
 }
 .copyright__inner p a:hover {
-  color: #fff;
+  color: rgb(231, 16, 16);
 }
 .footer.quick__link {
   left: 67px;

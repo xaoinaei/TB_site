@@ -199,7 +199,7 @@ a {
 a:hover,
 a:focus,
 a:active {
-  color: #e40000;
+  color: #105e3d;
 }
 p a:hover,
 p a:focus,
@@ -252,7 +252,7 @@ img:last-child {
   margin-bottom: 0;
 }
 body {
-  background: #fff;
+  background: #850202;
 }
 .mark,
 mark {

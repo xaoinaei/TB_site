@@ -1984,8 +1984,8 @@ blockquote {
   margin-top: 25px;
 }
 .contact-box.message textarea {
-  background: transparent none repeat scroll 0 0;
-  border: 1px solid #ebebeb;
+  background: #fffffe;
+  border: 1px solid #27ccbe;
   min-height: 205px;
 }
 .contact-btn .htc__btn {
